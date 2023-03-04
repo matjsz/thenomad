@@ -8,7 +8,10 @@
 
 <h2>Some new updates! :)</h2>
 
-<p>The main pages are done, they include the home page and the story page:</p>
+<p>The main pages are done, they include the home page and the story page.</p>
+<p>I didn't upload the project files yet because it has some API keys and data that I still need to mask, but I will do it soon.</p>
+
+<br/>
 
 <strong>Home Page</strong>
 ![image](https://user-images.githubusercontent.com/54675543/222926868-9aeaa8af-cfb8-46eb-8f46-b3df7d9f985a.png)
