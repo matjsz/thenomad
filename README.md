@@ -8,6 +8,7 @@
 
 <h2>Some new updates! :)</h2>
 
+<p><strong>The website won't be available until I buy a server for it, so this repository will stay just as a backup for the project, but soon it will be 100% available :)</strong></p>
 <p>The main pages are done, they include the home page and the story page.</p>
 <p>I didn't upload the project files yet because it has some API keys and data that I still need to mask, but I will do it soon.</p>
 
